@@ -1,6 +1,6 @@
 
 
-package POM;  //this is shahid branch pinki branch
+package POM;  
 
 
 import org.openqa.selenium.WebDriver;
