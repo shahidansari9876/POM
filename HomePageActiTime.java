@@ -23,6 +23,4 @@ public class HomePageActiTime {
 		logout.click();
 	}
 
- system.out.println('shahid')
 }
-// my name is shahid ansari i m automation engineer in deops. 
